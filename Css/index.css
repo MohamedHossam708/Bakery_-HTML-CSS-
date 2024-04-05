@@ -326,8 +326,17 @@ align-items: center;
     justify-content: center;
     align-items: center;
     padding: 30px;
+    transition: 1s;
  
 }
+.footer .container .content .social_media ul li:hover{
+    background-color: #FFFFFF;
+    
+}
+.footer .container .content .social_media ul li:hover i{
+    color: #303030 !important;
+}
+
 .footer .container .content .social_media ul li i{
 color: #8c8a86 !important;
 
